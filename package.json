@@ -1,0 +1,14 @@
+{
+  "name": "secret-network",
+  "version": "0.0.8",
+  "description": "Secret Network",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "2.6.11",
+    "vuepress": "1.5.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
